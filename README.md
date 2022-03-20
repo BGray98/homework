@@ -1,4 +1,5 @@
 #include <stdio.h> //2017038027 소프트웨어학과 조중훈 hw2-1
+
 int main()
 {
 char charType; //char형 변수 선언
